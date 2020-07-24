@@ -1,0 +1,13 @@
+{
+  "collectionName": "custom_emails",
+  "info": {
+    "name": "custom-email",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {}
+}

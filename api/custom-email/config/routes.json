@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "method": "POST",
+      "path": "/custom-emails",
+      "handler": "custom-email.create",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
