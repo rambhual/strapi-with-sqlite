@@ -18,7 +18,7 @@ module.exports = {
   "* * * * * *": async () => {
     try {
       await strapi.plugins["email"].services.email.send({
-        to: "qwsuhhctgcpacfshkc@ttirv.net",
+        to: "aeyijqxusvloeorazf@awdrt.com",
         from: "joelrobuchon@strapi.io",
         cc: "helenedarroze@strapi.io",
         bcc: "ghislainearabian@strapi.io",
